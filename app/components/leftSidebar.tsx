@@ -1,4 +1,4 @@
-import Link from 'next/Link'
+import Link from 'next/link'
 import { TiHomeOutline } from "react-icons/ti";
 import { Button } from '@/components/ui/button'
 import { CiUser } from 'react-icons/ci'
